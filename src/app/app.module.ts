@@ -1,16 +1,16 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
-//Rutas
+// Rutas
 import { APP_ROUTING } from './app.routes';
 
 
-//Servicios
+// Servicios
 import { HeroesService } from './servicios/heroes.service';
 
 
 
-//Componentes
+// Componentes
 import { AppComponent } from './app.component';
 import { NavbarComponent } from './components/shared/navbar/navbar.component';
 import { HomeComponent } from './components/home/home.component';
